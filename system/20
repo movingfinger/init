@@ -1,0 +1,3 @@
+https://www.cyberciti.biz/faq/linux-list-users-command/
+
+cat /etc/passwd | awk -F':' '{print $1}'

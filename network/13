@@ -1,0 +1,9 @@
+➜ ~ git:(master) ✗ nslookup 10.112.3.44
+Server:	10.51.1.253
+Address:	10.51.1.253#53
+
+44.3.112.10.in-addr.arpa	name = e1z2r3p44.42.us.org.
+
+nslookup 10.112.3.44 | grep "name = " | awk '{print $4}'
+
+e1z2r3p44.42.us.org

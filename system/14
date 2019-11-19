@@ -1,0 +1,3 @@
+http://www.informit.com/articles/article.aspx?p=2854374&seqNum=6i
+
+tail -f /var/log/syslog &

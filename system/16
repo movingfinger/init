@@ -1,0 +1,9 @@
+https://opensource.com/article/17/11/how-use-cron-linux
+https://www.howtogeek.com/101288/how-to-schedule-tasks-on-linux-an-introduction-to-crontab-files/
+https://kvz.io/schedule-tasks-on-linux-using-crontab.html
+https://crontab.guru/every-4-minutes
+https://drupal.star.bnl.gov/STAR/blog/jeromel/2013/apr/05/how-setup-crontabs
+
+"cron" command can execute scheduled commands.
+
+crontab -e

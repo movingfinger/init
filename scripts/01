@@ -1,0 +1,5 @@
+# http://linuxcommand.org/lc3_wss0010.php
+# https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
+
+#!/bin/bash
+cat /etc/passwd | cut -d: -f1,3,7

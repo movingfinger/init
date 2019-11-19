@@ -1,0 +1,6 @@
+https://askubuntu.com/questions/257421/list-all-human-users
+https://www.geeksforgeeks.org/cut-command-linux-examples/
+https://ryanstutorials.net/linuxtutorial/grep.php
+https://stackoverflow.com/questions/42674717/regex-match-exactly-4-digits
+
+cut -d: -f1,3 /etc/passwd | egrep ':[0-9]{4}$' | cut -d: -f1

@@ -1,0 +1,11 @@
+https://support.rackspace.com/how-to/connecting-to-a-server-using-ssh-on-linux-or-mac-os/
+
+1) Graphic session:
+	a) Go to Leave and click to "Switch User"
+	b) Click "start new session"
+	c) Select "new user"
+	d) Type the password
+
+2) ssh session
+	a) ssh "new user"@ip address
+	b) Type password

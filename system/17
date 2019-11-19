@@ -1,0 +1,7 @@
+https://support.rackspace.com/how-to/connecting-to-a-server-using-ssh-on-linux-or-mac-os/
+
+ssh username@ipaddress
+
+first, use ip a to check the ip address
+
+ex) ssh sako@10.0.2.15

@@ -1,0 +1,4 @@
+http://osxdaily.com/2011/09/15/find-default-gateway-ip-address-mac-os-x/
+man route
+
+route get default | grep gateway

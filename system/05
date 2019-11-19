@@ -1,0 +1,3 @@
+https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+
+systemctl status ssh

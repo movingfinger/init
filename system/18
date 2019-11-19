@@ -1,0 +1,4 @@
+https://www.2daygeek.com/start-stop-restart-enable-reload-openssh-server-service-in-linux/
+https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+
+systemctl stop ssh

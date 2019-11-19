@@ -1,0 +1,3 @@
+https://superuser.com/questions/367969/how-can-i-direct-a-query-to-specific-dns-server
+
+nslookup slash16.org 8.8.8.8

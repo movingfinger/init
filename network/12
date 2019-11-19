@@ -1,0 +1,4 @@
+http://osxdaily.com/2009/08/06/quickly-get-all-your-dhcp-info-with-ipconfig/
+https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol]
+
+ipconfig getpacket en0 | grep yiaddr | awk '{print $3}'

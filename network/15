@@ -1,0 +1,8 @@
+➜ ~ git:(master) ✗ cat /etc/hosts
+127.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1 localhost
+
+#10.51.1.38	cdn.intra.42.fr
+
+we can modify #10.31.1.38 to #46.19.122.85 by sudo vim /private/etc.hosts.

@@ -1,0 +1,5 @@
+https://askubuntu.com/questions/76337/where-is-the-ssh-server-fingerprint-generated-stored
+https://www.ssh.com/ssh/key/
+https://www.ssh.com/ssh/authorized-key
+
+All files which start of ssh_host... in /etc/ssh/ssh_host_rsa_key.pub, /etc/ssh/ssh_host_rsa_key

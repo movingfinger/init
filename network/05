@@ -1,0 +1,4 @@
+http://osxdaily.com/2010/06/01/how-to-find-a-websites-ip-address/
+https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
+
+nslookup slash16.org | grep Server | awk {'print $2}'

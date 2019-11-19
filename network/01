@@ -1,0 +1,3 @@
+man ifconfig
+
+ifconfig -l

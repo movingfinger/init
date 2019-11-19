@@ -1,0 +1,3 @@
+https://linuxconfig.org/check-what-debian-version-you-are-running-on-your-linux-system
+
+you can check the debian version by "cat /etc/debian_version"

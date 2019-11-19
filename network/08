@@ -1,0 +1,5 @@
+https://www.godaddy.com/garage/who-hosts-this-website-tips-and-tools-for-finding-ip-address-dns-details-and-more/
+https://www.techrepublic.com/article/how-to-master-macos-whois-command-basics/
+https://www.whoishostingthis.com/#search=slash16.org
+
+whois slash16.org | grep "Name Server: " | awk '{print $3}'

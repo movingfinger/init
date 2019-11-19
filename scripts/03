@@ -1,0 +1,15 @@
+#!/bin/bash
+echo "Type any words..."
+while :
+do
+	read INPUT_STRING
+	case $INPUT_STRING in
+		done)
+			echo "Bye bye!"
+			break
+			;;
+		*)
+			figlet $INPUT_STRING
+			;;
+	esac
+done

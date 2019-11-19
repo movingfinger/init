@@ -1,0 +1,9 @@
+# https://www.systutorials.com/docs/linux/man/1-pgrep/
+# https://www.computerhope.com/unix/upgrep.htm
+# https://www.tecmint.com/delete-remove-a-user-account-with-home-directory-in-linux/
+# https://unix.stackexchange.com/questions/18043/how-do-i-kill-all-a-users-processes-using-their-uid
+
+#!/bin/bash
+USER=$1
+pkill -u $USER
+sudo userdel $USER

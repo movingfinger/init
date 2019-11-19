@@ -1,0 +1,4 @@
+https://unix.stackexchange.com/questions/104821/how-to-terminate-a-background-process
+https://stackoverflow.com/questions/1624691/linux-kill-background-task
+
+kill "pid"
